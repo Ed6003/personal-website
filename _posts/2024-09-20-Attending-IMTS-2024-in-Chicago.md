@@ -9,6 +9,7 @@ tags:
   - Engineering Design
   - Additive Manufacturing
   - CAD / CAM
+  - Engineering Conferences
 author_profile: true
 header:
   particles: true
