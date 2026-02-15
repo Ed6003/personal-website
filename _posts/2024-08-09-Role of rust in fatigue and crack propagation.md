@@ -9,6 +9,7 @@ tags:
   - "Materials Science"
   - "Electric Vehicles"
 author_profile: true
+mathjax: false
 header:
   particles: true
   overlay_color: "#000"

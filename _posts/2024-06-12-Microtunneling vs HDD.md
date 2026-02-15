@@ -14,6 +14,7 @@ tags:
   - "Microtunneling"
   - "TBM"
 author_profile: true
+mathjax: false
 header:
   particles: true
   overlay_color: "#000"

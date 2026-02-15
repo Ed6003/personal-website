@@ -15,6 +15,7 @@ tags:
   - 3D Printing
   - Lattice Structures
 author_profile: true
+mathjax: false
 header:
   particles: true
   overlay_color: "#000"

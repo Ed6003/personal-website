@@ -10,6 +10,7 @@ tags:
   - "Engineering Conferences"
   - "Granta MI"
 author_profile: true
+mathjax: false
 header:
   particles: true
   overlay_color: "#000"

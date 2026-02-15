@@ -13,6 +13,7 @@ pagination:
 #  - "test"
 #  - "hello"
 author_profile: true
+mathjax: false
 toc: true
 toc_sticky: true
 toc_label: "Contents"
