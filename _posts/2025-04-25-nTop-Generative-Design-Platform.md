@@ -30,7 +30,7 @@ related: true
 
 nTop is a revolutionary generative design platform combining additive manufacturing workflows with advanced algorithms to create otimised components. Quite uniquely compared to traditional CAD software the geometry is not predefined. Implicit techniques generate parametric geometries, its modular and process based workflow allow for optimisation and editing at any part, without restarting from scratch.
 
-I have used nTop in my [Undergraduate Dissertation](/portfolio/undergraduate-dissertation) to use the density field from topology optimisation to drive a functionally graded TPMS lattice to optimise a 3D printed polymer gears.
+I have used nTop in my [Undergraduate Dissertation](/portfolio/undergraduate-dissertation) to use the density field from topology optimisation to drive a functionally graded TPMS lattice to optimise 3D printed polymer gears.
 
 ### The Power of Field-Driven Design
 
