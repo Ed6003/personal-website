@@ -38,7 +38,7 @@ nTop's strength in its field-driven approach allows mathematically driven fields
 
 ### Integration with Simulation Workflows
 
-nTop, originally known as nTopology when it was founded in 2019 is relatively new but managed to establish itself in 3D printing design optimisation through its integration with existing finite element analysis workflows and softwares. One interesting application is the thermal optimisation of a radiators geometry using gyroid TPMS lattices.
+nTop, originally known as nTopology when it was founded in 2019 is relatively new but managed to establish itself in 3D printing design optimisation through its integration with existing finite element analysis workflows and software. One interesting application is the thermal optimisation of a radiators geometry using gyroid TPMS lattices.
 
 ### Advanced Manufacturing Preparation
 
