@@ -28,7 +28,7 @@ share: true
 related: true
 ---
 
-The Gibbon MATLAB Toolbox is a powerful open-source library for finite element analysis and is aprticularly suited for biomechanics and soft tissue modeling applications but has also very powerful latticeand mesh creation and analysis tools. Developed by Kevin Moerman from the University of Galway the toolbox integrates MATLAB workflows with several FEA softwares.
+The Gibbon MATLAB Toolbox is a powerful open-source library for finite element analysis and is aprticularly suited for biomechanics and soft tissue modeling applications but has also very powerful lattice and mesh creation and analysis tools. Developed by Kevin Moerman from the University of Galway the toolbox integrates MATLAB workflows with several FEA softwares.
 
 ![GIBBON Toolbox Overview](/assets/images/GIBBON_overview.jpg)
 *GIBBON toolbox workflow overview showing geometry processing, meshing, and FEA capabilities*
