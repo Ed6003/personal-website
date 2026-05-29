@@ -28,4 +28,4 @@ Simulation-ready material data however, is often a challenge. For example compos
 
 Without reliable material data, even the most advanced simulation software can only go so far. The very first source of error introduced is in material data, before the models, before the computation, before any assumptions and are made. That’s why material characterisation, management, and validation are critical parts of the engineering workflow. Granta MI fits into the process by providing a secure database for proprietary materials data as well as premade databases and schemas to be used standalone or to be expanded or replaced with proprietary data. A well-documented premade schema is already a great resource.
 
-<a class="btn btn--primary" href="/portfolio/ansys-synopsys-placement" target="_blank" rel="noopener noreferrer">See my Ansys (Synopsys) Placement</a>
+<a class="btn btn--primary" href="/portfolio/ansys-part-of-synopsys-placement" target="_blank" rel="noopener noreferrer">See my Ansys (Synopsys) Placement</a>
